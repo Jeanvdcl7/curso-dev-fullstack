@@ -1,0 +1,54 @@
+body{
+    background: #cebdbd;
+    font-family: Arial, Helvetica, 'courier New', sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #00f7c7;
+    border-radius: 50%;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px #940202;
+}
+
+#titulo-principal {
+    margin-bottom: 0px;
+    letter-spacing: -2px;
+}
+
+#software {
+    margin-top: 7px;
+    margin-bottom: 1px;
+    font-style: italic;
+    color: #394442;
+    font-weight:100;
+    letter-spacing: -1px;
+
+}
+
+#main {
+    margin-bottom: 0px;
+}
+
+#lista-a {
+    margin-top: 0px;
+}
+
+#other {
+    margin-bottom: 0px;
+}
+
+#lorem {
+    margin-top: 0px;
+}
+
+#certifications {
+    margin-bottom: 0px;
+}
+
+#amores {
+    margin-top: 0px;
+}

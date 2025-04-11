@@ -1,0 +1,106 @@
+body{
+    background: #cebdbd;
+    font-family: Arial, Helvetica, 'courier New', sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #00f7c7;
+    border-radius: 50%;
+    margin: 30px 30px 0px 30px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px #940202;
+}
+
+#titulo-principal {
+    font-family: "Bungee Tint", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+    margin-top: 7px;
+    letter-spacing: -2px;
+}
+
+#software {
+
+    font-family: "Montserrat Underline", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-style: italic;
+    color: #394442;
+    font-weight: 500;
+    letter-spacing: -1px;
+
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.social-icons {
+    width: 50px;
+}
+
+.github {
+    margin: 0 7px 0 7px;
+}
+
+#main {
+    font-family: "Playwrite MX Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+}
+
+#lista-a {
+    margin-top: 0px;
+}
+
+#other {
+    font-family: "Playwrite MX Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+}
+
+#lorem {
+    margin-top: 0px;
+}
+
+#certifications {
+    font-family: "Playwrite MX Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+}
+
+#amores {
+    margin-top: 0px;
+}
+
+/* 
+.caixa {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 0 auto; 
+    /* toda vez que eu colocar 2 ao invés de 4 eu estarei informando que o 1º é referente ao top e o bottom (cima baixo) e o 2º é referente a left e right (direita esquerda) */
+
+
